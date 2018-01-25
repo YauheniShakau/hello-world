@@ -1,5 +1,5 @@
 # hello-world
-M first repository
+My first repository
 
 Hi there!
 
